@@ -18,4 +18,4 @@ You will need to run the **schema.sql** file from the mysql shell. Then use **np
 ## Usage
 This application is only the back end. Once the server is running use **/api/products**, **/api/categories**, and **/api/tags** with different HTTP requests to interact with the database.
 
-A walk-through video can be found [here]
+A walk-through video can be found [here https://vimeo.com/777515366]
